@@ -14,11 +14,11 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "RunAsh ";
     position: fixed;
     left: 0;
     bottom: 0;
-    width: 100%;
+    width: 200%;
     padding: 10px;
     color: #919191;
     font-size: 10pt;
